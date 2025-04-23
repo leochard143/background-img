@@ -1,1 +1,1 @@
-for use background image for HTML
+for use as background image for HTML
